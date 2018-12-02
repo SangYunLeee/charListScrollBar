@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>MyColumn.qml</file>
+        <file>MyListView.qml</file>
+        <file>MyButton.qml</file>
+        <file>ListForChar.qml</file>
+        <file>MyRow.qml</file>
+        <file>ScrollBarListView.qml</file>
+    </qresource>
+</RCC>
